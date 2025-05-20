@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Zheng Wei from Malaysia<br><br>- 🔭 I’m currently 2nd Year CS Student @ University Malaya<br>- 📚 I'm currently learning Web Development and DSA<br>- ⚡ In my free time I go GYM</p>
+<p align="left">I'm Zheng Wei from Malaysia<br><br>- 🔭 I’m currently 2nd Year CS Student @ University Malaya<br>- 📚 I'm currently learning Web Development and DSA<br>- ⚡ In my free time I go 𝐺𝑦𝑚. 🔋🎧🤍 </p>
 
 ###
 
